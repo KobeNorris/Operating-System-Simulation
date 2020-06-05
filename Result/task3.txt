@@ -1,0 +1,21 @@
+Producer 1, Produced = 1, Consumed = 0: *
+Producer 1, Produced = 2, Consumed = 0: **
+Producer 1, Produced = 3, Consumed = 0: ***
+Producer 1, Produced = 4, Consumed = 0: ****
+Producer 1, Produced = 5, Consumed = 0: *****
+Producer 1, Produced = 6, Consumed = 0: ******
+Producer 1, Produced = 7, Consumed = 0: *******
+Producer 1, Produced = 8, Consumed = 0: ********
+Consumer 1, Produced = 8, Consumed = 1: *******
+Consumer 1, Produced = 8, Consumed = 2: ******
+Consumer 1, Produced = 8, Consumed = 3: *****
+Consumer 1, Produced = 8, Consumed = 4: ****
+Consumer 1, Produced = 8, Consumed = 5: ***
+Producer 1, Produced = 9, Consumed = 5: ****
+Producer 1, Produced = 10, Consumed = 5: *****
+Consumer 1, Produced = 10, Consumed = 6: ****
+Consumer 1, Produced = 10, Consumed = 7: ***
+Consumer 1, Produced = 10, Consumed = 8: **
+Consumer 1, Produced = 10, Consumed = 9: *
+Consumer 1, Produced = 10, Consumed = 10: 
+sSync = 1, sDelayProducer = 0, sCountItem = 0
